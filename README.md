@@ -11,4 +11,4 @@ Answer to four different interview questions that test your SQL knowledge/skills
 Database files:
 <li> books_authors.db - This is for question #2 (Amazon SQL interview question), this database contains two tables: books and authors.
   
-  
+<li>customers_orders.db - This is for question #3 (Amazon SQL interview question), this database contains two tables: customers and orders.  
